@@ -1,5 +1,5 @@
 {
-  "name": "rippleui",
+  "name": "rippleui-bzn",
   "version": "1.12.1",
   "description": "Cleanest, modern and beatifull Tailwind CSS library.",
   "main": "dist/js/index.js",
